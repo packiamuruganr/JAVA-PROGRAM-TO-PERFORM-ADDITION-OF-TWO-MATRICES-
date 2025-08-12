@@ -100,6 +100,6 @@ public class matrixaddition {
 
 ## RESULT:
 
-Thus, the program addition of two matrices using a Java program is developed, and the output is verified. 
+Thus, the program addition of two matrices using a Java program is developed, and the output is verified..
 
 
